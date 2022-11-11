@@ -124,6 +124,16 @@ Hey gus in this tutorial i will show you to install the new version of Agent fir
 
 + And then you will see upload is succesfully
 
+
+update of rpc 
+
+We have updated the RPC node in our server, now people can approve request without any problem.  You only need to change the RPC node in your agent setting. Follow this guide please:
+
+1. Search in chainlist.org for BSC testnet and copy the URL of a valid node
+2. Open agent, click developer mode, click congfiguration
+3. Replace the RPC URL to the one you copy, and save it.
+4. Now refresh the agent(You can simply close the windows and reopen it) and you should be able to test and join the file sharing contest.
+
 Done enjow
 
 
